@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VikasMeshram2708
+- 👋 Hi, I’m Vikas Meshram.
 
 - 👀 I’m interested in FrontEnd Development.
 
