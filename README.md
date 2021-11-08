@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning ReactJs, Solidity.
 
-- 📫 How to reach me ... shivanshofficial108@gmail.com
+- 📫 How to reach me shivanshofficial108@gmail.com
 
 <!---
 VikasMeshram2708/VikasMeshram2708 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
