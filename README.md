@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Vikas Meshram.
 
-- 👀 I’m interested in FrontEnd Development.
+- 👀 I’m interested in Ful Web Development.
 
-- 🌱 I’m currently learning ReactJs, Solidity.
+- 🌱 I’m currently learning MERN Stak, Solidity.
 
 - 📫 How to reach me meshramvikas744@gmail.com
 
