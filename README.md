@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vikas Meshram.
 
-- 👀 I’m interested in Ful Web Development.
+- 👀 I’m interested in Full Stack Web Development.
 
 - 🌱 I’m currently learning MERN Stak, Solidity.
 
