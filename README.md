@@ -12,3 +12,8 @@
 VikasMeshram2708/VikasMeshram2708 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+- { 🌱 } ZSH bash go here...
+https://caffeinedev.medium.com/customize-your-terminal-oh-my-zsh-on-ubuntu-18-04-lts-a9b11b63f2
