@@ -2,7 +2,7 @@
 
 - { 👀 } I’m interested in Full Stack Web Development.
 
-- { 🌱 } I’m currently learning MERN Stak, Solidity.
+- { 🌱 } I’m currently learning MERN Stak & TypeScript.
 
 - { 🌱 } My Portfolio Website link - https://my-portfolio-beta-indol.vercel.app
 
