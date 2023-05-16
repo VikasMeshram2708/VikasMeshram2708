@@ -10,7 +10,7 @@
 
 
 # Deployed Projects
-- https://spotless-blue-katydid.cyclic.app/
+- Slambook: https://spotless-blue-katydid.cyclic.app/
 - Dwelite Decor Clone https://dwelitedecor-clone.vercel.app/
 
 <!---
