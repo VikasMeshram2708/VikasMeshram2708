@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikas Meshram</h1>
 <h3 align="center">A Passionate Full Stack Developer from India.</h3>
 
-- 📫 How to reach me **meshramvikas108@gmail.com**
+- 📫 Portfolio **https://vikasmeshram-portfolio.vercel.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,13 +14,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikasmeshram2708&show_icons=true&locale=en&layout=compact" alt="vikasmeshram2708" /></p>
 
 # Deployed Projects
-- Slambook: https://spotless-blue-katydid.cyclic.app/
+- Mathify: Math AI Agent https://mathify-delta.vercel.app
 <!---
 VikasMeshram2708/VikasMeshram2708 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-
-- { 🌱 } ZSH bash go here...
-https://caffeinedev.medium.com/customize-your-terminal-oh-my-zsh-on-ubuntu-18-04-lts-a9b11b63f2
